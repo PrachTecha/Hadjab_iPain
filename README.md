@@ -1,5 +1,12 @@
 # Hadjab iPain paper code
-This repository holds the core code for the main analysis and plotting for "Senolytic Therapy Treats Neuropathic Pain after Nerve Injury" paper.
+This repository holds the core code for the main analysis and plotting for "[The single-cell transcriptomic atlas iPain identifies senescence of nociceptors as a therapeutical target for chronic pain treatment](https://doi.org/10.1038/s41467-024-52052-8)" paper.
+
+## Citation
+```
+Techameena, P., Feng, X., Zhang, K., Hadjab, S. (2024).
+The single-cell transcriptomic atlas iPain identifies senescence of nociceptors as a therapeutical target for chronic pain treatment.
+Nature Communications, 15(8585). https://doi.org/10.1038/s41467-024-52052-8 
+```
 
 ## Contents
 - [DRG](DRG) - Containing Jupyter Notebooks for creating the [iPainDRG](https://cellxgene.cziscience.com/e/b6f472f1-a58d-43a7-a898-2d6822a0b2b2.cxg/) atlas in mice and its analysis.
